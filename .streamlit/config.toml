@@ -1,0 +1,6 @@
+[server]
+enableXsrfProtection = false
+maxMessageSize = 300
+
+[browser]
+gatherUsageStats = false
